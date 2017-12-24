@@ -57,15 +57,15 @@ h2{
   position: absolute;
   height: 17.5px;
   background-size: contain;
-  left: 60px;
-  right: 60px;
+  left: 50px;
+  right: 50px;
   background-image: url('http://fe.it-academy.by/Sites/0024801/Side1.png');
 }
 
 .border-left, .border-right{
   position: absolute;
-  top: 60px;
-  bottom: 60px;
+  top: 50px;
+  bottom: 50px;
   width: 17.5px;
   background-size: contain;
   background-image: url('http://fe.it-academy.by/Sites/0024801/Side2.png');
